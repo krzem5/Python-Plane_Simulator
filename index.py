@@ -1,4 +1,4 @@
-(__import__("sys").path.append("D:\\K\\Coding\\projects\\Python-Lwp"),exec("_lwp=__import__(\"lwp\")"),exec(";".join([f"{k}=_lwp.__dict__[\"{k}\"]" for k in dir(_lwp) if k[:2]!="__"])),exec("del _lwp"))# from "D:\K\Coding\projects\Python-Lwp\lwp.py" import *
+(__import__("sys").path.append("D:\\K\\Coding\\Python-Lwp"),exec("_lwp=__import__(\"lwp\")"),exec(";".join([f"{k}=_lwp.__dict__[\"{k}\"]" for k in dir(_lwp) if k[:2]!="__"])),exec("del _lwp"))# from "D\K\Coding\Python-Lwp\lwp.py" import *
 import time
 import json as JSON
 import random
