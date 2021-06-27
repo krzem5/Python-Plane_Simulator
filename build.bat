@@ -1,3 +1,3 @@
 @echo off
 cls
-python37 src/main.py
+python src/main.py
